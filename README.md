@@ -7,8 +7,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://t.me/vendettka" target="blank"><img align="center" src="https://raw.githubusercontent.com/shbov/shbov/main/telegram.svg" alt="vendettka" height="30" width="40" /></a>
-<a href="https://instagram.com/_vendettka_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vendettka" height="30" width="40" /></a>
+  <a href="https://t.me/findesvim" target="blank"><img align="center" src="https://raw.githubusercontent.com/shbov/shbov/main/telegram.svg" alt="vendettka" height="30" width="40" /></a>
+<a href="https://instagram.com/_vendettka_?igshid=NTc4MTIwNjQ2YQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vendettka" height="30" width="40" /></a>
 </p>
 
 
