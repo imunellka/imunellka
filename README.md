@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vita</h1>
 <h3 align="center">Studying computer science in cs hse'25</h3>
 
-- 🔭 I’m working for the SPLAT company on ML-engineer position
+- 🔭 I’m working for the OZON company on ML-engineer middle position, ex. SPLAT
 - 🌱 I’m currently intrested in ML/DL related to financial sphere
 - 📫 How to reach me **stepashkina.vita@mail.ru**
 
